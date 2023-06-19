@@ -39,7 +39,7 @@ Constrains:
 | Open        | 40,000 seconds  | 2,00 GiB     |
 | 18          | 19,000 seconds  | 128 MiB      |
 | 21          | 15,000 seconds  | 118 MiB      |
-| 24          | T10,000 seconds | 108 MiB      |
+| 24          | 10,000 seconds  | 108 MiB      |
 | 27          | 6,000 seconds   | 98,0 MiB     |
 | 30          | 4,000 seconds   | 88,0 MiB     |
 | 30L         | 1,000 seconds   | 78,0 MiB     |
